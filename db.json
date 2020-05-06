@@ -1,0 +1,69 @@
+{
+  'from': 'aaa@example.com,
+  'to': ['jjj@example.com', 'zzz@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': '0:20',
+  'attachement': false
+},
+{
+  'from': 'bbb@example.com,
+  'to': ['iii@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': '0:10'
+},
+{
+  'from': 'ccc@example.com,
+  'to': ['hhh@example.com', 'yyy@example.com],
+  'subject': 'Urgent! Please read now!',
+  'date': '0:00',
+  'attachment': true
+},
+{
+  'from': 'ddd@example.com,
+  'to': ['ggg@example.com', 'xxx@example.com', 'www@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': false
+},
+{
+  'from': 'eee@example.com,
+  'to': ['fff@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': false
+},
+{
+  'from': 'fff@example.com,
+  'to': ['eee@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': false
+},
+{
+  'from': 'ggg@example.com,
+  'to': 'ddd@example.com',
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': false
+},
+{
+  'from': 'hhh@example.com,
+  'to': ['ccc@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': true
+},
+{
+  'from': 'iii@example.com,
+  'to': ['bbb@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': true
+},
+{
+  'from': 'jjj@example.com,
+  'to': ['aaa@example.com'],
+  'subject': 'Urgent! Please read now!',
+  'date': 'Jan 01',
+  'attachment': false
+}
