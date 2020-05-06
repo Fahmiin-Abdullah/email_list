@@ -6,7 +6,8 @@
       "to": ["jjj@example.com", "zzz@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:20",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "to": ["iii@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:10",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "to": ["hhh@example.com", "yyy@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:00",
-      "attachment": true
+      "attachment": true,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "to": ["ggg@example.com", "xxx@example.com", "www@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:00",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "to": ["fff@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:00",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "to": ["eee@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:00",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "to": ["ddd@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:00",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "to": ["ccc@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2020-01-01T00:00",
-      "attachment": true
+      "attachment": true,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "to": ["bbb@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2019-12-31T00:00",
-      "attachment": true
+      "attachment": true,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "to": ["aaa@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "2019-12-31T00:00",
-      "attachment": false
+      "attachment": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolor alias velit vero eaque reiciendis obcaecati aliquam. Tenetur unde ducimus omnis ex, modi distinctio, dolores doloribus nemo provident praesentium iusto at quibusdam magni, impedit ea obcaecati animi atque libero error cupiditate vero soluta adipisci autem facilis. Iusto laudantium error accusantium, illo nihil quam ullam placeat quas pariatur at neque nobis facilis aspernatur inventore provident ratione quo tempora consequatur quibusdam voluptate quisquam! Qui sint dolorem, incidunt laboriosam non officia dignissimos veniam recusandae numquam natus. Ipsa magnam voluptate blanditiis voluptatibus. Laudantium maiores aut magni consectetur reprehenderit vero architecto iure ducimus cumque quaerat."
     }
   ]
 }
