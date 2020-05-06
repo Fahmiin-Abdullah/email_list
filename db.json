@@ -51,7 +51,7 @@
     {
       "id": 7,
       "from": "ggg@example.com",
-      "to": "ddd@example.com",
+      "to": ["ddd@example.com"],
       "subject": "Urgent! Please read now!",
       "date": "Jan 01",
       "attachment": false
