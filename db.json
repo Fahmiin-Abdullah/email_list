@@ -13,7 +13,7 @@
   },
   {
     "from": "ccc@example.com",
-    "to": ["hhh@example.com", "yyy@example.com]",
+    "to": ["hhh@example.com", "yyy@example.com"],
     "subject": "Urgent! Please read now!",
     "date": "0:00",
     "attachment": true
