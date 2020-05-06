@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "emails": [
     {
       "id": 1,
-      "title": "hello"
+      "from": "aaa@example.com",
+      "to": ["jjj@example.com", "zzz@example.com"],
+      "subject": "Urgent! Please read now!",
+      "date": "0:20",
+      "attachment": false
+    },
+    {
+      "id": 2,
+      "from": "bbb@example.com",
+      "to": ["iii@example.com"],
+      "subject": "Urgent! Please read now!",
+      "date": "0:10",
+      "attachment": false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
